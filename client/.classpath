@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Stefan/Dropbox/HRO TI/workspace/libraries/simpler-json-20141113/json-20141113.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stefan/Dropbox/HRO TI/workspace/libraries/rxtx-2.1-7-bins-r2/RXTXcomm-2.2pre1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stefan/Desktop/classes.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

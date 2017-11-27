@@ -1,0 +1,5 @@
+#!/bin/bash
+
+javac -cp ".:./lib/*:/home/david/jre1.8.0_31/lib/ext/RXTXcomm.jar" App.java 
+java -cp ".:./lib/*:/home/david/jre1.8.0_31/lib/ext/RXTXcomm.jar" App
+rm *.class

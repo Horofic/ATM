@@ -1,0 +1,23 @@
+{
+  "name": "ATM-server",
+  "version": "0.1.0",
+  "description": "ATM server voor HRO project 3/4",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:HRO-ATM/server.git"
+  },
+  "author": "David Soff",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/HRO-ATM/server/issues"
+  },
+  "homepage": "https://github.com/HRO-ATM/server",
+  "dependencies": {
+    "restify": "^2.8.5"
+  }
+}
